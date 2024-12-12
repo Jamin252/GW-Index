@@ -1,0 +1,20 @@
+Carbon Emissions (tons)
+Energy Source (%)
+Renewable
+Waste Management Metrics (Recycling Rate %)
+Water Usage (cubic meters/year)
+Deforestation Impact (hectares)
+Sustainability Initiatives
+Certification Presence
+Certification Type
+Certification Validity
+Social Media Sentiment
+Customer Reviews (Average Rating)
+Media Mentions
+Compliance Rating
+Number of Violations
+Fine Amount ($)
+Controversy Type
+Controversy Severity
+ESG Investment Attractiveness Score
+Impact on Stock Price (%)
